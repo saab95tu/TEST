@@ -16,8 +16,7 @@ body {
 
 </style>
 <?php
- //时间：20170624
-//编写人：李越晨
+
 //功能：登录页面填写
 $name=$pwd1="";
 if ($_SERVER["REQUEST_METHOD"] == "POST")
